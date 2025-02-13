@@ -1,0 +1,4 @@
+3d_models/ship1.txt filter=lfs diff=lfs merge=lfs -text
+3d_models/ship2.txt filter=lfs diff=lfs merge=lfs -text
+models/model1.txt filter=lfs diff=lfs merge=lfs -text
+models/modele2.txt filter=lfs diff=lfs merge=lfs -text
